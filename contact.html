@@ -1,0 +1,211 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Contact | Nishant GameDev Studios</title>
+
+  <link rel="stylesheet" href="style.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Orbitron:wght@500;600;700;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <!-- NAVBAR -->
+
+  <header class="navbar">
+
+    <a href="index.html" class="logo">
+      NISHANT<span>GDS</span>
+    </a>
+
+    <nav class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="games.html">Games</a>
+      <a href="about.html">About</a>
+      <a href="contact.html" class="active">Contact</a>
+    </nav>
+
+    <a href="games.html" class="nav-button">
+      EXPLORE GAMES ↗
+    </a>
+
+  </header>
+
+
+  <!-- CONTACT PAGE -->
+
+  <main class="contact-page">
+
+    <section class="contact-hero">
+
+      <p class="hero-label">LET'S CONNECT</p>
+
+      <h1>
+        HAVE A <span class="gradient-text">PROJECT</span><br>
+        IN MIND?
+      </h1>
+
+      <p>
+        Have a question, suggestion, or collaboration idea?
+        We'd love to hear from you.
+      </p>
+
+    </section>
+
+
+    <!-- CONTACT CONTENT -->
+
+    <section class="contact-container">
+
+      <div class="contact-info">
+
+        <p class="hero-label">GET IN TOUCH</p>
+
+        <h2>Let's build something amazing.</h2>
+
+        <p>
+          Whether it's about our games, feedback, or a
+          potential collaboration, feel free to reach out.
+        </p>
+
+        <div class="contact-highlight">
+          <span>✦</span>
+          <div>
+            <h3>Game Development</h3>
+            <p>Ideas, feedback and game-related discussions.</p>
+          </div>
+        </div>
+
+        <div class="contact-highlight">
+          <span>✦</span>
+          <div>
+            <h3>Collaboration</h3>
+            <p>Creative projects and development opportunities.</p>
+          </div>
+        </div>
+
+      </div>
+
+
+      <!-- CONTACT FORM -->
+
+      <div class="contact-form-box">
+
+        <h2>Send a Message</h2>
+
+        <p>Fill in the details below.</p>
+
+        <form id="contactForm">
+
+          <label for="name">Your Name</label>
+
+          <input
+            type="text"
+            id="name"
+            name="name"
+            placeholder="Enter your name"
+            required
+          >
+
+
+          <label for="email">Email Address</label>
+
+          <input
+            type="email"
+            id="email"
+            name="email"
+            placeholder="Enter your email"
+            required
+          >
+
+
+          <label for="subject">Subject</label>
+
+          <input
+            type="text"
+            id="subject"
+            name="subject"
+            placeholder="What is this about?"
+            required
+          >
+
+
+          <label for="message">Your Message</label>
+
+          <textarea
+            id="message"
+            name="message"
+            rows="5"
+            placeholder="Write your message..."
+            required
+          ></textarea>
+
+
+          <button type="submit" class="contact-submit">
+            SEND MESSAGE ↗
+          </button>
+
+
+          <p id="formStatus" aria-live="polite"></p>
+
+        </form>
+
+      </div>
+
+    </section>
+
+  </main>
+
+
+  <!-- FOOTER -->
+
+  <footer class="footer">
+
+    <div class="footer-top">
+
+      <a href="index.html" class="logo">
+        NISHANT<span>GDS</span>
+      </a>
+
+      <p>CREATING WORLDS. BUILDING EXPERIENCES.</p>
+
+    </div>
+
+
+    <div class="footer-bottom">
+
+      <p>
+        © 2026 Nishant GameDev Studios. All rights reserved.
+      </p>
+
+      <div class="footer-links">
+
+        <a href="privacy-policy.html">Privacy Policy</a>
+
+        <a href="terms.html">Terms & Conditions</a>
+
+      </div>
+
+    </div>
+
+  </footer>
+
+
+  <!-- EMAILJS LIBRARY -->
+
+  <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+
+  <!-- MAIN JAVASCRIPT -->
+
+  <script src="script.js"></script>
+
+</body>
+
+</html>
