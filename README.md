@@ -60,15 +60,10 @@ Nishant GameDev Studios is a solo indie studio exploring game development, 3D ar
 
 Suggestions, bug reports, and feedback are welcome! Open an issue or submit a pull request.
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE). *(Change this if your assets need a different license.)*
-
 ## 📬 Contact
 
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: [your-email]
-- Portfolio / itch.io: [link]
-
+- GitHub: [@nishantabk](https://github.com/nishantabk)
+- Email: [nishantgamedevstudios@gmail.com]
+- Direct Website Link: [https://nishantabk.github.io/nishant-gamedev-studios/]
 ---
 ⭐ If you like the project, consider giving it a star!
