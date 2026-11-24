@@ -4,7 +4,7 @@
 
 ## 👋 About
 
-Nishant GameDev Studios is a solo indie studio exploring game development, 3D art, and interactive experiences. The goal is to design, build, and ship polished games while learning and sharing the process openly.
+Nishant GameDev Studios is a solo indie studio exploring game development, 3D art, and interactive experiences. The goal is to design, build, and ship polished games.
 
 ## 🛠️ Tech Stack
 
@@ -12,27 +12,9 @@ Nishant GameDev Studios is a solo indie studio exploring game development, 3D ar
 |------|-------|
 | Game Engines | Unity 6, Godot |
 | 3D Modelling | Blender |
-| Texturing & Materials | Quixel Mixer |
-| Programming | C#, C, GDScript |
+| Programming | C#, GDScript |
 | IDE / Editors | Visual Studio |
-| Version Control | Git & GitHub |
 
-## 🚀 Projects
-
-| Project | Engine | Status | Description |
-|---------|--------|--------|-------------|
-| [Game Title] | Unity 6 | 🚧 In Development | [Short description] |
-| [Game Title] | Godot | 💡 Planned | [Short description] |
-
-## 📂 Repository Structure
-
-```
-├── Assets/          # Game assets (models, textures, audio)
-├── Scripts/         # Gameplay and system scripts
-├── Scenes/          # Levels and scenes
-├── Docs/            # Design docs and notes
-└── README.md
-```
 
 ## ⚙️ Getting Started
 
