@@ -23,7 +23,7 @@ Suggestions, bug reports, and feedback are welcome! Open an issue or submit a pu
 ## 📬 Contact
 
 - GitHub: [@nishantabk](https://github.com/nishantabk)
-- Email: [nishantgamedevstudios@gmail.com]
-- Direct Website Link: [https://nishantabk.github.io/nishant-gamedev-studios/]
+- Email: nishantgamedevstudios@gmail.com
+- Direct Website Link: https://nishantabk.github.io/nishant-gamedev-studios/
 ---
 ⭐ If you like the project, consider giving it a star!
